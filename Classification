@@ -1,0 +1,17 @@
+KNN: 
+
+Decision Tree:
+
+
+Naive Bayes Classifier (classification use probability, How likely an event is):
+  One sentence to describe: the classifier uses probabilistic framework and the feature independent assumption to simplify the problem of estimating probabilities for classfication task.
+  Assumption: the input featuress are independent to each other. 
+              In real works, it is not always hold. 
+  Classification problem: given features X={X1,X2,....,Xn}, predict class C and maximize P(C|X).
+  Use case: spam filtering, document classification and sentiment analysis. 
+
+***Basic knowledge: 1) P(A)= (#ways for A)/(#possible outcomes)
+                    2) Joint Probability P(A,B): Probability of events A and B occuring together
+                            P(A,B)=P(A)*P(B), where A and B are independent
+                    3) Conditional Probablity P(A|B) = P(A,B)/P(B)
+                       Bayes' Rule: P(B|A) = P(A|B)*P(B)/P(A)
