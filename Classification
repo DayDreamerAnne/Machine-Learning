@@ -1,7 +1,7 @@
 KNN: 
 
 Decision Tree:
-
+1.avoid overfitting: pre-pruning & post-pruning, where post-puring has better performance due to triming tree based on whole tree.
 
 Naive Bayes Classifier (classification use probability, How likely an event is):
   One sentence to describe: the classifier uses probabilistic framework and the feature independent assumption to simplify the problem of estimating probabilities for classfication task.
