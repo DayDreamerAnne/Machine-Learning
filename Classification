@@ -15,3 +15,8 @@ Naive Bayes Classifier (classification use probability, How likely an event is):
                             P(A,B)=P(A)*P(B), where A and B are independent
                     3) Conditional Probablity P(A|B) = P(A,B)/P(B)
                        Bayes' Rule: P(B|A) = P(A|B)*P(B)/P(A)
+
+
+Validation set:
+1. Hold out method: 
+2. k-fold 
